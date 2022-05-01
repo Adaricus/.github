@@ -1,12 +1,11 @@
-## Hi there 👋
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/25452435/166145402-ee7b1a98-e646-462f-88c0-3be8a6a61e74.png" width="450"></img>
+<p align="center">
+</br>	
 
-<!--
+# 👋Hi There!👋
+## [Adaricus](https://github.com/Adaricus) *👈💻Our website*
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🔗 Links
+- [![Adaricus Walllet](https://img.shields.io/badge/💰Adaricus-ADA-blue?style=social&logo=)](https://github.com/Adaricus)
+- [![Adaricus Discord](https://img.shields.io/badge/Adaricus-Join-black?style=social&logo=discord)](https://github.com/Adaricus)
